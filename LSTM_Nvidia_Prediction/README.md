@@ -24,7 +24,7 @@ The goal is to explore **deep learning for time series forecasting** in a financ
    - Create sequences of 60 days of historical prices as input (`X_train`) and the next day as target (`y_train`)  
 3. **LSTM Model:**  
    - Sequential Keras model with two LSTM layers, one Dense layer and Dense output  
-   - Loss function: Root Mean Squared Error (RMSE)  
+   - Loss function: Mean Squared Error (MSE)  
    - Optimizer: Adam  
 4. **Training:**  
    - Fit model on training sequences  
