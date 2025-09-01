@@ -37,7 +37,8 @@ The goal is to explore **deep learning for time series forecasting** in a financ
 
 ## Results
 - Comparison of **predicted vs actual stock prices** over the test period  
-- Visualization shows how the model captures trends in NVDA prices  
+- Visualization shows how the model captures trends in NVDA prices
+- <img width="904" height="446" alt="image" src="https://github.com/user-attachments/assets/59f760d1-1c71-49f4-8fb1-7481be3d45eb" />
 - Calculated a root mean squared error of 10.6 (3sf)
 
 ---
